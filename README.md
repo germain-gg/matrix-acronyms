@@ -6,9 +6,9 @@
 
 ## H
 
-- HS: HomeServer
+- HS: Homeserver
 
-## M
+## M 
 
 - MELS: Member Event List Summary
 - MSC: Matrix Specification
