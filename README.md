@@ -4,6 +4,10 @@
 
 - DAG: Directed Acyclic Graph
 
+## E
+
+- E2EE: End-to-end encryption
+
 ## H
 
 - HS: Homeserver
