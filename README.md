@@ -22,6 +22,10 @@
 
 - RR: Read Receipt
 
+## S
+
+- SSSS: Secure Secret Storage and Sharing
+
 ## T
 
 - TWIM: This Week in Matrix
