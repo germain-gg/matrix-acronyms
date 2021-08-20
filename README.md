@@ -18,6 +18,10 @@
 - OTK: One Time Key
 - OTWSU: Open Tech Will Save Us
 
+## R
+
+- RR: Read Receipt
+
 ## T
 
 - TWIM: This Week in Matrix
