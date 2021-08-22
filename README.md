@@ -1,5 +1,9 @@
 # Acronyms
 
+## C
+
+- CS API: Client-Server Application Programming Interface
+
 ## D
 
 - DAG: Directed Acyclic Graph
