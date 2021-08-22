@@ -17,12 +17,12 @@
 
 - HS: Homeserver
 
-## M 
+## M
 
 - MELS: Member Event List Summary
 - MSC: Matrix Spec Change
 
-## O 
+## O
 
 - OTK: One Time Key
 - OTWSU: Open Tech Will Save Us
