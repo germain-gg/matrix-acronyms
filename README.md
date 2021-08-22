@@ -15,7 +15,7 @@
 ## M 
 
 - MELS: Member Event List Summary
-- MSC: Matrix Specification
+- MSC: Matrix Spec Change
 
 ## O 
 
