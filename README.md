@@ -25,6 +25,7 @@
 ## R
 
 - RR: Read Receipt
+- RM: Read Marker
 
 ## S
 
