@@ -35,7 +35,7 @@
 ## S
 
 - SS API: Server-Server Application Programming Interface
-- SSSS: Secure Secret Storage and Sharing
+- SSSS: Secure Server-Side Storage
 
 ## T
 
