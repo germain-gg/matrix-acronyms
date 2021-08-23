@@ -1,5 +1,11 @@
-# Acronyms
+# [matrix] acronyms
 
+<p align="center">
+  <img src="https://matrix.org/images/matrix-logo.svg" width="200" />
+  <br/>
+  A place to share and define all the acronyms used in the matrix.org ecosystem
+</p> 
+ 
 ## C
 
 - CS API: Client-Server Application Programming Interface
