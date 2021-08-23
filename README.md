@@ -8,7 +8,7 @@
  
 ## C
 
-- CS API: Client-Server Application Programming Interface
+- CS API: [Client-Server Application Programming Interface](https://matrix.org/docs/spec/client_server/latest)
 
 ## D
 
@@ -31,7 +31,7 @@
 ## O
 
 - OTK: One Time Key
-- OTWSU: Open Tech Will Save Us
+- OTWSU: [Open Tech Will Save Us](https://matrix.org/open-tech-will-save-us/)
 
 ## R
 
@@ -45,9 +45,9 @@
 
 ## T
 
-- TWIM: This Week in Matrix
+- TWIM: [This Week in Matrix](https://matrix.org/blog/category/this-week-in-matrix)
 
 ## U
 
-- UISI: Unknown Inbound Session ID
+- <details><summary>UISI: Unknown Inbound Session ID</summary> Old name to refer to `UTD`</details>
 - UTD: Unable to Decrypt
