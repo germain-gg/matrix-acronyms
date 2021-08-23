@@ -1,5 +1,9 @@
 # Acronyms
 
+## C
+
+- CS API: Client-Server Application Programming Interface
+
 ## D
 
 - DAG: Directed Acyclic Graph
@@ -7,17 +11,18 @@
 ## E
 
 - E2EE: End-to-end encryption
+- EDU: Ephemeral Data Unit
 
 ## H
 
 - HS: Homeserver
 
-## M 
+## M
 
 - MELS: Member Event List Summary
-- MSC: Matrix Specification
+- MSC: Matrix Spec Change
 
-## O 
+## O
 
 - OTK: One Time Key
 - OTWSU: Open Tech Will Save Us
@@ -25,10 +30,12 @@
 ## R
 
 - RR: Read Receipt
+- RM: Read Marker
 
 ## S
 
-- SSSS: Secure Secret Storage and Sharing
+- SS API: Server-Server Application Programming Interface
+- SSSS: Secure Server-Side Storage
 
 ## T
 
