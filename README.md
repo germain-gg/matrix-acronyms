@@ -45,7 +45,3 @@
 
 - UISI: Unknown Inbound Session ID
 - UTD: Unable to Decrypt
-
-## V
-
-- VoIP: Voice over Internet Protocol (voice and video calls)
