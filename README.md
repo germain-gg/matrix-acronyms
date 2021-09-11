@@ -23,6 +23,10 @@
 
 - HS: Homeserver
 
+## I
+
+- ILAG: Improved landing as guest
+
 ## M
 
 - MELS: Member Event List Summary
