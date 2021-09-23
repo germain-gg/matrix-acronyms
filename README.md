@@ -8,6 +8,7 @@
  
 ## C
 
+- CIDER: [Contenteditable Input Diff Error Reconcile](https://github.com/matrix-org/matrix-react-sdk/blob/develop/docs/ciderEditor.md)
 - CS API: [Client-Server Application Programming Interface](https://matrix.org/docs/spec/client_server/latest)
 
 ## D
