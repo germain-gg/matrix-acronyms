@@ -45,6 +45,7 @@
 
 ## S
 
+- SCT: Spec Core Team
 - SFU: Selective Forwarding Unit
 - SS API: Server-Server Application Programming Interface
 - SSSS: Secure Server-Side Storage
