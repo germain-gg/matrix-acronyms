@@ -20,6 +20,10 @@
 - E2EE: End-to-end encryption
 - EDU: Ephemeral Data Unit
 
+## F
+
+- FCP: [Final Comment Period](https://matrix.org/docs/DemystifyingMSCs.pdf)
+
 ## H
 
 - HS: Homeserver
