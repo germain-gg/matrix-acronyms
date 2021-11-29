@@ -5,7 +5,11 @@
   <br/>
   A place to share and define all the acronyms used in the matrix.org ecosystem
 </p> 
- 
+
+## B
+
+- BACAT: [Bottom-Aligned, Clipped-At-Top](https://github.com/matrix-org/matrix-react-sdk/blob/develop/docs/scrolling.md)
+
 ## C
 
 - CIDER: [Contenteditable Input Diff Error Reconcile](https://github.com/matrix-org/matrix-react-sdk/blob/develop/docs/ciderEditor.md)
