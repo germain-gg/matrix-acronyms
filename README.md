@@ -46,6 +46,10 @@
 - OTK: One Time Key
 - OTWSU: [Open Tech Will Save Us](https://matrix.org/open-tech-will-save-us/)
 
+## P
+
+- PL: Power Level
+
 ## R
 
 - RR: Read Receipt
