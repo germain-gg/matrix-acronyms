@@ -49,11 +49,13 @@
 ## P
 
 - PL: Power Level
+- PWLU: Password-less User
 
 ## R
 
 - RR: Read Receipt
 - RM: Read Marker
+- ROU: Read Only User
 
 ## S
 
