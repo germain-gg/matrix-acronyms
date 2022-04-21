@@ -38,6 +38,7 @@
 
 ## M
 
+- MAU: Monthly Active Users
 - MELS: Member Event List Summary
 - MSC: Matrix Spec Change
 
