@@ -13,7 +13,7 @@
 ## C
 
 - CIDER: [Contenteditable Input Diff Error Reconcile](https://github.com/matrix-org/matrix-react-sdk/blob/develop/docs/ciderEditor.md)
-- CS API: [Client-Server Application Programming Interface](https://matrix.org/docs/spec/client_server/latest)
+- CS (C2S) API: [Client-Server Application Programming Interface](https://matrix.org/docs/spec/client_server/latest)
 
 ## D
 
@@ -62,7 +62,7 @@
 
 - SCT: Spec Core Team
 - SFU: [Selective Forwarding Unit](https://webrtcglossary.com/sfu/)
-- SS API: Server-Server Application Programming Interface
+- SS (S2S) API: Server-Server Application Programming Interface
 - SSSS: Secure Server-Side Storage
 
 ## T
