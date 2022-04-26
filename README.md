@@ -71,5 +71,6 @@
 
 ## U
 
+- UIA: [User-Interactive Authentication](https://spec.matrix.org/v1.2/client-server-api/#user-interactive-authentication-api)
 - <details><summary>UISI: Unknown Inbound Session ID</summary> Old name to refer to `UTD`</details>
 - UTD: Unable to Decrypt
