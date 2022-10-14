@@ -68,6 +68,7 @@
 ## T
 
 - TWIM: [This Week in Matrix](https://matrix.org/blog/category/this-week-in-matrix)
+- TR: [Third Room](https://thirdroom.io/)
 
 ## U
 
