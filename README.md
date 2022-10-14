@@ -23,6 +23,7 @@
 
 - E2EE: End-to-end encryption
 - EDU: Ephemeral Data Unit
+- ELS: Event List Summary
 
 ## F
 
