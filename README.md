@@ -23,6 +23,7 @@
 
 - E2EE: End-to-end encryption
 - EDU: Ephemeral Data Unit
+- ELS: [Event List Summary](https://github.com/matrix-org/matrix-react-sdk/blob/develop/src/components/views/elements/EventListSummary.tsx) in matrix-react-sdk
 
 ## F
 
@@ -39,7 +40,7 @@
 ## M
 
 - MAU: Monthly Active Users
-- MELS: Member Event List Summary
+- MELS: Member [Event List Summary](https://github.com/matrix-org/matrix-react-sdk/blob/develop/src/components/views/elements/EventListSummary.tsx) in matrix-react-sdk
 - MSC: Matrix Spec Change
 
 ## O
