@@ -41,6 +41,7 @@
 - MAU: Monthly Active Users
 - MELS: Member Event List Summary
 - MSC: Matrix Spec Change
+- MXID: [Matrix user ID](https://spec.matrix.org/v1.4/appendices/#user-identifiers)
 
 ## O
 
