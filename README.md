@@ -42,6 +42,7 @@
 - MAU: Monthly Active Users
 - MELS: Member [Event List Summary](https://github.com/matrix-org/matrix-react-sdk/blob/develop/src/components/views/elements/EventListSummary.tsx) in matrix-react-sdk
 - MSC: Matrix Spec Change
+- MXID: [Matrix user ID](https://spec.matrix.org/v1.4/appendices/#user-identifiers)
 
 ## O
 
