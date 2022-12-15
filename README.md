@@ -33,6 +33,7 @@
 - EIX (or EXI): Element X iOS
 - ELS: [Event List Summary](https://github.com/matrix-org/matrix-react-sdk/blob/develop/src/components/views/elements/EventListSummary.tsx) in matrix-react-sdk
 - EW: Element Web
+- EX: Element X
 
 ## F
 
