@@ -1,4 +1,4 @@
-# [matrix] acronyms
+# Matrix acronyms
 
 <p align="center">
   <img src="https://matrix.org/images/matrix-logo.svg" width="200" />
@@ -21,9 +21,19 @@
 
 ## E
 
+- EA: Element Android
+- EAX: Element X Android
 - E2EE: End-to-end encryption
+- EC: Element Call (or Element Cloud, depending on context)
+- ED: Element Desktop
 - EDU: Ephemeral Data Unit
+- EEC: Element Enterprise Cloud
+- EES: Element Enterprise Server
+- EI: Element iOS
+- EIX (or EXI): Element X iOS
 - ELS: [Event List Summary](https://github.com/matrix-org/matrix-react-sdk/blob/develop/src/components/views/elements/EventListSummary.tsx) in matrix-react-sdk
+- EW: Element Web
+- EX: Element X
 
 ## F
 
@@ -36,6 +46,7 @@
 ## I
 
 - ILAG: Improved landing as guest
+- IS: Identity Server
 
 ## M
 
@@ -69,8 +80,10 @@
 
 ## T
 
+- 3PID: Third Party Identifier
 - TWIM: [This Week in Matrix](https://matrix.org/blog/category/this-week-in-matrix)
 - TR: [Third Room](https://thirdroom.io/)
+- TTT: Tempered Transitive Trust (MSC2882)
 
 ## U
 
