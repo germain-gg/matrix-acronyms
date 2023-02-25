@@ -76,7 +76,7 @@
 - SCT: Spec Core Team
 - SFU: [Selective Forwarding Unit](https://webrtcglossary.com/sfu/)
 - SS (S2S) API: Server-Server Application Programming Interface
-- SSSS: Secure Server-Side Storage
+- SSSS: Secure Secret Sharing and Storage
 
 ## T
 
